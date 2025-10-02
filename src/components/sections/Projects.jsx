@@ -33,7 +33,7 @@ const Projects = () => {
         "CSS / Tailwind / Styled Components",
       ],
       image: require("../../assets/images/weather.png"),
-      link: "https://github.com/The-Knightts/Weather-App",
+      link: "https://github.com/The-Knightts/WeatherApp",
     },
     {
       id: 3,
